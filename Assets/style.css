@@ -94,7 +94,7 @@ tbody tr:nth-child(even) {
 .btn {
   border: none;
   background-color: hsl(223, 74%, 48%);
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px, rgba(0, 0, 0, 0.2) 0px 1px 1px
     0px;
   color: hsl(0, 0%, 100%);
   display: inline-block;
