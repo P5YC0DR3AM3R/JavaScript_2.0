@@ -30,7 +30,7 @@ Code written in JavaScript to present as a website to use as an example of input
 
 https://p5yc0dr3am3r.github.io/JavaScript_2.0/
 
-![Screenshot of final page](./assets/images/Screenshot.png)
+![Screenshot of final page](./Assets/Images/Screenshot.png)
 
 ## Credits
 
