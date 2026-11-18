@@ -1,3 +1,9 @@
+> **Status:** classroom exercise, 2024. Not a Phygital-DevOps production app.
+>
+> Browser payroll form. Functions were left unfinished. Payroll math is still the original stub.
+>
+> 2026 baseline: secrets stay out of source, Actions are pinned, placeholder packages are gone, CI checks this tree.
+
 # JavaScript_2.0
 
 #JavaScript Payroll Solution
